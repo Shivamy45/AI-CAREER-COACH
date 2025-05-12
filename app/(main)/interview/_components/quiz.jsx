@@ -88,7 +88,6 @@ export default function Quiz() {
     return <BarLoader className="mt-4" width={"100%"} color="gray" />;
   }
 
-   Show results if quiz is completed
   if (resultData) {
     return (
       <div className="mx-2">
