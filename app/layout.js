@@ -10,7 +10,7 @@ import { Analytics } from "@vercel/analytics/next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-	title: "CareerBuddy - AI Career Coach",
+	title: "SensAi - AI Career Coach",
 	description: "",
 };
 
